@@ -1,6 +1,6 @@
 # The-Prime-Detective
 Prime numbers are a fundamental concept in mathematics and are used in various applications, such as cryptography and data encryption. In this project, I will create a Java program that can determine if a number is prime or not, and then use this program to traverse through a list of numbers and create a new list with only prime numbers.
-'''
+```
 // Importing the ArrayList Module and Creating the Prime Detective Class
 import java.util.ArrayList;
 class PrimeDirective {
@@ -49,7 +49,7 @@ class PrimeDirective {
   }  
 
 }
-'''
+```
 Expected Output:
 ```
 true
